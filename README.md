@@ -1,7 +1,13 @@
-### Hi there 👋
+### Welcome to my github ! 🖥️
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixportier&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixportier&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**felixportier/felixportier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fptrdev/fptrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
