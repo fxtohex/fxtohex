@@ -1,7 +1,13 @@
 # Welcome to my github ! 🖥️
 
+About Me
 
+I am a passionate developer with a focus on:
 
+    Game Development 🎮: Specializing in Virtual Reality (VR) and Augmented Reality (AR), I aim to create immersive and engaging serious and less serious gaming experiences.
+    IoT Prototyping & Firmware Development 🔌: Developing IoT prototypes and firmware to connect devices seamlessly and enhance user experiences.
+    CyberSecurity 🔒: Focused on protecting digital spaces from threats, identifying vulnerabilities, and implementing robust security measures.
+    Web Development 🌐: Designing and developing user-friendly, responsive, and visually appealing web applications.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixportier&layout=compact&theme=github_dark)
 
