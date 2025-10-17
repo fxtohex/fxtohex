@@ -32,7 +32,7 @@ Printing everything — from custom enclosures to weird gadgets. If it breaks, v
 **Making:** `Fusion 360` `KiCad` `PrusaSlicer`  
 **XR/Gaming:** `Game design` `Unity3D` `TouchDesigner` `Unreal Engine`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxtohex&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-pi-six-70.vercel.app/api/top-langs/?username=fxtohex&layout=compact&theme=github_dark)
 
 > Most of my embedded work is on private repos — public stats don’t reflect current focus.
 ---
@@ -46,3 +46,5 @@ Hit me up if you're working on:
 - Freeing embedded devices from proprietary implementations ( Tuya devices 🤮 )
 - Mixed reality experiences and digital art
 - Drones, quads, or anything RC
+
+[![fxtohex's GitHub stats](https://github-readme-stats-pi-six-70.vercel.app/api?username=fxtohex&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
