@@ -1,26 +1,48 @@
-# Welcome to my github ! 🖥️
+# fxtohex
 
-**About Me**
+I’m a hands-on engineer passionate about connecting the physical and digital — from embedded systems and radio protocols to immersive virtual worlds.
 
-I am a passionate developer with a focus on: \
-\
-    🔌**IoT Prototyping & Firmware Development**: Developing IoT prototypes and firmware to connect devices seamlessly and enhance user experiences. \
-    🎮**Game Development**: Specializing in Virtual Reality (VR) and Augmented Reality (AR), I aim to create immersive and engaging serious and less serious gaming experiences. \
-    🔒**CyberSecurity**: Focused on protecting digital spaces from threats, identifying vulnerabilities, and implementing robust security measures. \
-    🌐**Web Development**: Designing and developing user-friendly, responsive, and visually appealing web applications. 
+## What I do
+
+🔌 **Embedded Systems & IoT**  
+Writing firmware for ESP32, STM32, nRF, ZephyrOS, rapid prototyping of IoT products and exploring RF techniques.
+
+🚁 **RC/FPV**  
+Currently Diving deep into RC systems and existing protocols (ELRS, CrossFire, SRXL2)
+- Creating protocol bridges, UART converters, and custom mods
+- Looking for low-latency open source digital video solutions ! 
+
+🎮 **VR/AR Development**  
+Building immersive experiences for training sims,games and entertainment.
+
+🔒 **Embedded Security**  
+Securing IoT devices (and occasionally breaking them)
+
+🖨️ **3D Printing**  
+Printing everything — from custom enclosures to weird gadgets. If it breaks, version 2 is already printing.
+
+---
+
+### 📊 Languages & Tools
 
 
+**Core:** `C/C++` `Python` `RTOS` `ESP32` `STM32` `nRF` `Zephyr`  
+**Protocols:** `LoRa` `MQTT` `BLE` `Zigbee` `UART` `SPI` `I2C`  
+**RC/FPV:** `Betaflight` `ELRS` `Crossfire` `SRXL` `OpenIPC`  
+**Making:** `Fusion 360` `KiCad` `PrusaSlicer`  
+**XR/Gaming:** `Game design` `Unity3D` `TouchDesigner` `Unreal Engine`
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxtohex&layout=compact&theme=github_dark)
 
-## Latest IOT projects :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fxtohex&repo=SmartTrashCans_IOT&show_icons=true&theme=github_dark)](https://github.com/felixportier/SmartTrashCans_IOT)
+> Most of my embedded work is on private repos — public stats don’t reflect current focus.
+---
+
+### 🚧 Currently Building
+- Mixed reality hybrid concert venues
 
 
-## Latest Web projects :
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fxtohex&repo=reddifake&show_icons=true&theme=github_dark)](https://github.com/felixportier/reddifake)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fxtohex&repo=irc-chat&show_icons=true&theme=github_dark)](https://github.com/felixportier/irc-chat)
-
-
+### 📫 Let's Connect
+Hit me up if you're working on:
+- Freeing embedded devices from proprietary implementations ( Tuya devices 🤮 )
+- Mixed reality experiences and digital art
+- Drones, quads, or anything RC
