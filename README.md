@@ -35,17 +35,3 @@ Printing everything — from custom enclosures to weird gadgets. If it breaks, v
 ![Top Langs](https://github-readme-stats-pi-six-70.vercel.app/api/top-langs/?username=fxtohex&layout=compact&theme=github_dark&hide=vue,elixir,css,html)
 
 [![fxtohex's GitHub stats](https://github-readme-stats-pi-six-70.vercel.app/api?username=fxtohex&theme=github_dark&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-> Most of my embedded work is on private repos — public stats don’t reflect current focus.
----
-
-### 🚧 Currently Building
-- Mixed reality hybrid concert venues
-
-
-### 📫 Let's Connect
-Hit me up if you're working on:
-- Freeing embedded devices from proprietary implementations ( Tuya devices 🤮 )
-- Mixed reality experiences and digital art
-- Drones, quads, or anything RC
